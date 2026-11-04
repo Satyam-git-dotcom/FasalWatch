@@ -1,0 +1,36 @@
+{
+  "farmer_001": {
+    "name": "Ramesh Kumar",
+    "location": "Jaipur",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "crop": "wheat",
+    "stage": "flowering",
+    "language": "hi",
+    "language_name": "Hindi",
+    "phone": "+91-9876543210"
+  },
+  "farmer_002": {
+    "name": "Priya Devi",
+    "location": "Patna",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "crop": "rice",
+    "stage": "transplanting",
+    "language": "hi",
+    "language_name": "Hindi",
+    "phone": "+91-9123456789"
+  },
+  "farmer_003": {
+    "name": "Anand Rao",
+    "location": "Nagpur",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "crop": "cotton",
+    "stage": "flowering",
+    "language": "mr",
+    "language_name": "Marathi",
+    "phone": "+91-9988776655"
+  }
+}
+

@@ -1,0 +1,15 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+*.log
+.DS_Store
+data/alert_log.jsonl
+

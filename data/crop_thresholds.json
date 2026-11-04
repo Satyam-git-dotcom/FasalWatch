@@ -1,0 +1,77 @@
+{
+  "wheat": {
+    "flowering": {
+      "heat_stress_temp_c": 35,
+      "heat_stress_consecutive_days": 2,
+      "drought_rain_7day_mm": 20,
+      "description": "Wheat at flowering stage is most sensitive to heat. Pollen viability drops sharply above 35°C."
+    },
+    "grain_fill": {
+      "heat_stress_temp_c": 33,
+      "heat_stress_consecutive_days": 3,
+      "drought_rain_7day_mm": 15,
+      "description": "High temps during grain fill reduce kernel weight and protein content."
+    },
+    "vegetative": {
+      "heat_stress_temp_c": 38,
+      "heat_stress_consecutive_days": 4,
+      "drought_rain_7day_mm": 10,
+      "description": "Wheat is relatively tolerant in vegetative stage but prolonged heat causes leaf rolling."
+    }
+  },
+  "rice": {
+    "transplanting": {
+      "heat_stress_temp_c": 38,
+      "heat_stress_consecutive_days": 2,
+      "drought_rain_7day_mm": 30,
+      "description": "Young rice plants need consistent moisture and mild temperatures to establish roots."
+    },
+    "flowering": {
+      "heat_stress_temp_c": 35,
+      "heat_stress_consecutive_days": 1,
+      "drought_rain_7day_mm": 25,
+      "description": "Even one day above 35°C during rice flowering can cause spikelet sterility."
+    },
+    "grain_fill": {
+      "heat_stress_temp_c": 33,
+      "heat_stress_consecutive_days": 3,
+      "drought_rain_7day_mm": 20,
+      "description": "Chalky grains and reduced milling quality result from heat stress during grain fill."
+    }
+  },
+  "maize": {
+    "tasseling": {
+      "heat_stress_temp_c": 36,
+      "heat_stress_consecutive_days": 2,
+      "drought_rain_7day_mm": 25,
+      "description": "Maize tasseling is the most heat-sensitive stage. Silk drying causes pollination failure."
+    },
+    "vegetative": {
+      "heat_stress_temp_c": 40,
+      "heat_stress_consecutive_days": 3,
+      "drought_rain_7day_mm": 15,
+      "description": "Maize is reasonably heat tolerant in early vegetative stages."
+    },
+    "grain_fill": {
+      "heat_stress_temp_c": 35,
+      "heat_stress_consecutive_days": 4,
+      "drought_rain_7day_mm": 20,
+      "description": "Extended heat during grain fill reduces starch accumulation and final yield."
+    }
+  },
+  "cotton": {
+    "flowering": {
+      "heat_stress_temp_c": 38,
+      "heat_stress_consecutive_days": 3,
+      "drought_rain_7day_mm": 15,
+      "description": "Cotton flower bud (square) shedding increases above 38°C, reducing boll set."
+    },
+    "boll_development": {
+      "heat_stress_temp_c": 36,
+      "heat_stress_consecutive_days": 4,
+      "drought_rain_7day_mm": 12,
+      "description": "Boll development needs consistent moisture. Stress causes premature boll opening."
+    }
+  }
+}
+
