@@ -13,4 +13,5 @@ venv/
 *.log
 .DS_Store
 data/alert_log.jsonl
+DEMO_VIDEO_SCRIPT.md
 
