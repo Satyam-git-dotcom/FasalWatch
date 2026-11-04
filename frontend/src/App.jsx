@@ -287,7 +287,7 @@ export default function App() {
         <div className="wrap">
           <a className="logo" href="#top">
             <i />
-            <span>Fasalwatch</span>
+            <span>fasalWatch</span>
           </a>
           <div className="links">
             <a href="#console">Run advisory</a>
